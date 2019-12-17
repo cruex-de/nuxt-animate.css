@@ -1,0 +1,27 @@
+{
+  "name": "@cruex-de/nuxt-animate.css",
+  "version": "1.0.0",
+  "description": "Animate.css module for nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruex-de/nuxt-animate.css.git"
+  },
+  "keywords": [
+    "nuxt",
+    "vue.js",
+    "animate.css"
+  ],
+  "author": "Raphael Fumfahr <cruex@zaflun.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cruex-de/nuxt-animate.cssissues"
+  },
+  "homepage": "https://github.com/cruex-de/nuxt-animate.css#readme",
+  "dependencies": {
+    "animate.css": "^3.7.2"
+  }
+}
