@@ -18,7 +18,7 @@
   "author": "Raphael Fumfahr <cruex@zaflun.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cruex-de/nuxt-animate.cssissues"
+    "url": "https://github.com/cruex-de/nuxt-animate.css/issues"
   },
   "homepage": "https://github.com/cruex-de/nuxt-animate.css#readme",
   "dependencies": {
