@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/cruex-de/nuxt-animate.css#readme",
   "dependencies": {
-    "animate.css": "^3.7.2"
+    "animate.css": "^4.1.1"
   }
 }
