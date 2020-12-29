@@ -1,6 +1,6 @@
 {
   "name": "@cruex-de/nuxt-animate.css",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Animate.css module for nuxt",
   "main": "index.js",
   "scripts": {
